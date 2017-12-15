@@ -217,6 +217,41 @@ a.expand:hover {
 	margin: 0 42px 0 -25px;
 	padding: 10px 50px;
 }
+.rtable {
+	display: inline-block;
+	vertical-align: top;
+	max-width: 100%;
+	overflow-x: auto;
+	/*white-space: nowrap;*/
+	border-collapse: collapse;
+	border-spacing: 0;
+	text-indent: 0;
+}
+.rtable th {
+  font-size: 14px;
+  text-align: left;
+  /*text-transform: uppercase;*/
+  /*background: #f2f0e6;*/
+}
+.rtable th,
+.rtable td {
+  padding: 6px 12px;
+  border: 1px solid #d9d7ce;
+}
+table {
+  margin: 30px 0;
+}
+thead {
+	border-top: 4px solid #FFBD0E;
+	border-bottom: 6px solid #FFBD0E;
+}
+
+/*
+tr:first-child,
+tr:last-child {
+	background-color: #eee;
+}
+*/
 
 /* Articles 1
 ------------------------------------*/

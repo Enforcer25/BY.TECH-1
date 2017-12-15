@@ -5881,6 +5881,7 @@
     overflow: hidden;
     overflow-x:auto;
 }
+/*
 .wrapper table:not(.vote-answer-table){
     border-collapse: collapse;
     border: 0px;
@@ -5915,6 +5916,8 @@
 .wrapper table:not(.vote-answer-table) tr td:nth-child(4){}
 .wrapper table:not(.vote-answer-table) tr td:nth-child(5){}
 .wrapper table:not(.vote-answer-table) tr td:nth-child(6){}
+
+*/
 
 .map-columns{}
 .map-columns li a{
