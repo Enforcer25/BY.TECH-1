@@ -344,6 +344,7 @@ input {
 .art-2-left {
 	width: 50%;
 	display:inline-block;
+	text-align: left;
 }
 
 .art-2-left img {
@@ -360,6 +361,7 @@ input {
 	float:right;
 	display:inline-block;
 	padding: 0 0 0 10px;
+	text-align: left;
 }
 .art-2-wrap-before {
 	width: 100%;
